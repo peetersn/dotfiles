@@ -10,7 +10,7 @@ I'm using zsh and I'm initializing this via the ```~/.zshrc``` by adding the fol
 
 ```
 # Initialize dotfiles
-source /Users/godspeed/.dotfilesinit
+source ~/dotfiles/bootstrap.sh
 ```
 
 You can also initialize the cool z script (to navigate to most recent folders)
