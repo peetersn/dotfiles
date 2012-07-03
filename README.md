@@ -6,9 +6,10 @@ Useful default dotfiles for Mac OSX
 
 Initializing:
 
-I'm using zsh and I'm initializing this via the ~/.zshrc by adding the following line:
+I'm using zsh and I'm initializing this via the ```~/.zshrc``` by adding the following line:
 
-```# Initialize dotfiles
+```
+# Initialize dotfiles
 source /Users/godspeed/.dotfilesinit
 ```
 
