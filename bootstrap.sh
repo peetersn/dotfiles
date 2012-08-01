@@ -8,3 +8,8 @@ unset file
 
 # init z   https://github.com/rupa/z
 . ~/dotfiles/z/z.sh
+
+function precmd () {
+  _z --add "$(pwd -P)"
+}
+
